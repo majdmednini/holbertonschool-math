@@ -1,2 +1,0 @@
-# holbertonschool-math
-Read me 
